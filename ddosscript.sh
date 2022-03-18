@@ -5,4 +5,5 @@ dbTarFile="db1000n_arm64_archive.tar.gz"
 rm db1000n*
 wget -O $dbTarFile "$dbLink"
 tar -xvzf $dbTarFile
-sudo ./db1000n
+
+echo "updated"
