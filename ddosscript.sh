@@ -6,4 +6,4 @@ rm db1000n*
 wget -O $dbTarFile "$dbLink"
 tar -xvzf $dbTarFile
 
-echo "updated"
+echo "updated 8.0.0"
