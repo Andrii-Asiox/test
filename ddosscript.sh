@@ -1,9 +1,9 @@
 #!/bin/bash
-dbLink="https://github.com/Arriven/db1000n/releases/download/v0.9.0/db1000n_linux_arm64.tar.gz"
+dbLink="https://github.com/Arriven/db1000n/releases/download/v0.9.3/db1000n_linux_arm64.tar.gz"
 dbTarFile="db1000n_arm64_archive.tar.gz"
 
 rm db1000n*
 wget -O $dbTarFile "$dbLink"
 tar -xvzf $dbTarFile
 
-echo "updated 0.9.0"
+echo "updated 0.9.3"
