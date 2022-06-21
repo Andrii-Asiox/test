@@ -1,1 +1,1 @@
-{"Collection":[{"Icon":null,"Title":"test app 1","NotOverwritableFiles":"","Description":"","Versions":[{"Title":"test v1","Url":"","Description":"","ExecutionFile":"SASPlanet.exe"}],"Id":"4fa1eba4-6a22-4f3e-a279-c80f572434f5"}]}
+{"Collection":[{"Id":"4fa1eba4-6a22-4f3e-a279-c80f572434f5","Title":"test app 1","Icon":null,"Description":"","Versions":[{"Title":"test v1","Description":"","Url":"https://github.com/Andrii-Asiox/test/raw/main/store4/package1","ExecutionFile":"SASPlanet.exe"}],"NotOverwritableFiles":""}]}
