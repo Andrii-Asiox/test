@@ -1,5 +1,0 @@
-https://github.com/Andrii-Asiox/test/raw/main/store/App1v1.exe
-https://github.com/Andrii-Asiox/test/raw/main/store/App1v2.exe
-https://github.com/Andrii-Asiox/test/raw/main/store/App1v3.exe
-https://github.com/Andrii-Asiox/test/raw/main/store/App2v0_1.exe
-https://github.com/Andrii-Asiox/test/raw/main/store/App2v0_2.exe

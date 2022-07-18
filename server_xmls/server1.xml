@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAppModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AppModel>
+    <Id>30810232-6f8e-4b9b-b2e8-3f685f02dfb4</Id>
+    <Title>App 1</Title>
+    <Icon>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGrSURBVFhH7ZbNSsNAFIWnjYobXUheQH0LxbVQUFxLUuoLCC7cuVK3/tVacZWkKa5FoeBzdO17qNjGnGRumqYTciNNs7AfDPekJDl3zsy0rfT7fVEmVVlLY95A6Q1Em/C19+4FYkbs13YrqIUnsLO9pazEWAJH5mGgi8Zyn6MExho4PTkO9LTxvNHqQl/dtdQNqBLQdV0snX3Iq2y+LzelCkmag3gDC8EnMV7eelIJcbBXk8pvZFUTQ//5wVD41RODH1SpUf0L8rIsKxQK6vW6VCHsBNZWNJY5JaCaOdXr5kP+U8AxJ5CAbdvRcBwnGJ1OR94xgr0EXHPMstFoRDpeQVyDiQbipnE45gRmnYZpmlKFsPfA8mKVZf51sZE585v7dv5TwDEHMMJ6p2EYhlQh7AQ0rZJpDj7P11NnTvq29Zj/FHDMAUyw22m4rhuNbrcr7xrBXgKOOYEvm6wUiIkEYErjryRnTiTNwdR/jmGCo4aBDUebTmUOCvs/kBZ7shHWKQCql3BMVLrZfsp3ClQvyTIBWc+BsQQCMSMogaiBsihsE3KZN/DfGxDiF7rJnhdNHsbxAAAAAElFTkSuQmCC</Icon>
+    <Description />
+    <Versions>
+      <VersionModel>
+        <Title>v1</Title>
+        <Description />
+        <Url />
+        <ExecutionFile>app1_v1.exe</ExecutionFile>
+      </VersionModel>
+    </Versions>
+    <NotOverwritableFiles />
+  </AppModel>
+</ArrayOfAppModel>

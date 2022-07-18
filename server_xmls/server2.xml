@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAppModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AppModel>
+    <Id>04d7b9d8-c876-408d-b5f2-e2e0d630c290</Id>
+    <Title>App 2</Title>
+    <Icon>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</Icon>
+    <Description />
+    <Versions>
+      <VersionModel>
+        <Title>app2 v1</Title>
+        <Description />
+        <Url />
+        <ExecutionFile>app2_v1.exe</ExecutionFile>
+      </VersionModel>
+    </Versions>
+    <NotOverwritableFiles />
+  </AppModel>
+  <AppModel>
+    <Id>30810232-6f8e-4b9b-b2e8-3f685f02dfb4</Id>
+    <Title>App 1</Title>
+    <Icon>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGrSURBVFhH7ZbNSsNAFIWnjYobXUheQH0LxbVQUFxLUuoLCC7cuVK3/tVacZWkKa5FoeBzdO17qNjGnGRumqYTciNNs7AfDPekJDl3zsy0rfT7fVEmVVlLY95A6Q1Em/C19+4FYkbs13YrqIUnsLO9pazEWAJH5mGgi8Zyn6MExho4PTkO9LTxvNHqQl/dtdQNqBLQdV0snX3Iq2y+LzelCkmag3gDC8EnMV7eelIJcbBXk8pvZFUTQ//5wVD41RODH1SpUf0L8rIsKxQK6vW6VCHsBNZWNJY5JaCaOdXr5kP+U8AxJ5CAbdvRcBwnGJ1OR94xgr0EXHPMstFoRDpeQVyDiQbipnE45gRmnYZpmlKFsPfA8mKVZf51sZE585v7dv5TwDEHMMJ6p2EYhlQh7AQ0rZJpDj7P11NnTvq29Zj/FHDMAUyw22m4rhuNbrcr7xrBXgKOOYEvm6wUiIkEYErjryRnTiTNwdR/jmGCo4aBDUebTmUOCvs/kBZ7shHWKQCql3BMVLrZfsp3ClQvyTIBWc+BsQQCMSMogaiBsihsE3KZN/DfGxDiF7rJnhdNHsbxAAAAAElFTkSuQmCC</Icon>
+    <Description />
+    <Versions>
+      <VersionModel>
+        <Title>v1</Title>
+        <Description />
+        <Url />
+        <ExecutionFile>app1_v1.exe</ExecutionFile>
+      </VersionModel>
+    </Versions>
+    <NotOverwritableFiles />
+  </AppModel>
+</ArrayOfAppModel>
