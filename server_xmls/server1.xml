@@ -9,7 +9,7 @@
       <VersionModel>
         <Title>v1</Title>
         <Description />
-        <Url />
+        <Url>https://github.com/Andrii-Asiox/test/raw/main/app_packages/app1_1</Url>
         <ExecutionFile>app1_v1.exe</ExecutionFile>
       </VersionModel>
     </Versions>

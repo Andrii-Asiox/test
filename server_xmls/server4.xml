@@ -8,7 +8,7 @@
       <VersionModel>
         <Title>app_3_1</Title>
         <Description />
-        <Url />
+        <Url>https://github.com/Andrii-Asiox/test/raw/main/app_packages/app_3_1</Url>
         <ExecutionFile>app3_v1.exe</ExecutionFile>
       </VersionModel>
     </Versions>
@@ -23,13 +23,13 @@
       <VersionModel>
         <Title>app2 v2</Title>
         <Description />
-        <Url />
+        <Url>https://github.com/Andrii-Asiox/test/raw/main/app_packages/app2_2</Url>
         <ExecutionFile>app2_v2.exe</ExecutionFile>
       </VersionModel>
       <VersionModel>
         <Title>app2 v1</Title>
         <Description />
-        <Url />
+        <Url>https://github.com/Andrii-Asiox/test/raw/main/app_packages/app2_1</Url>
         <ExecutionFile>app2_v1.exe</ExecutionFile>
       </VersionModel>
     </Versions>
@@ -44,19 +44,19 @@
       <VersionModel>
         <Title>v3</Title>
         <Description />
-        <Url />
+        <Url>https://github.com/Andrii-Asiox/test/raw/main/app_packages/app1_3</Url>
         <ExecutionFile>app1_v3.exe</ExecutionFile>
       </VersionModel>
       <VersionModel>
         <Title>v2</Title>
         <Description />
-        <Url />
+        <Url>https://github.com/Andrii-Asiox/test/raw/main/app_packages/app1_2</Url>
         <ExecutionFile>app1_v2.exe</ExecutionFile>
       </VersionModel>
       <VersionModel>
         <Title>v1</Title>
         <Description />
-        <Url />
+        <Url>https://github.com/Andrii-Asiox/test/raw/main/app_packages/app1_1</Url>
         <ExecutionFile>app1_v1.exe</ExecutionFile>
       </VersionModel>
     </Versions>
